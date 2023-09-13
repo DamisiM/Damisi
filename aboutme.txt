@@ -1,3 +1,6 @@
 Hello world!
-My name is Damisi.
-I have been abl to push my first git task
+My name is Oluwadamisi.
+I am a Junior full stack developer programmer.
+I am vast in C, C++, C#, HTML, Javascript, SQL.
+I am learning more important technologies to enhance my skills.
+I also have a 5 years experience as product/project manager.
